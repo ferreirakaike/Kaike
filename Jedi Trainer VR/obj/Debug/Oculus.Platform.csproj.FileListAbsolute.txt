@@ -1,0 +1,2 @@
+C:\Unity Projects\jedi_training\obj\Debug\Oculus.Platform.csproj.AssemblyReference.cache
+C:\Unity Projects\jedi_training\obj\Debug\Oculus.Platform.csproj.CoreCompileInputs.cache
